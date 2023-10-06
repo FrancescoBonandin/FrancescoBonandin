@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋,
+## welcome on my GitHub,
+## i'm Francesco, an Italian jr web-dev, i've always been interested in techs, sciences and web
+## actually i've ignored my inclinations for quite a bit (7 years) and recently some things aligned
+## and this gave me the possibility to start an online Master Bootcamp with Boolean, that gave me 
 
 <!--
 **FrancescoBonandin/FrancescoBonandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
