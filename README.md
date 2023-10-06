@@ -1,9 +1,9 @@
 ## Hi there 👋,
-#### welcome on my GitHub,
-#### i'm Francesco, an Italian jr web-dev, i've always been interested in techs, sciences and web
-#### actually i've ignored my inclinations for quite a bit (7 years) and recently some things aligned
-#### and this gave me the possibility to start an online Master Bootcamp with Boolean and this taught me the necessary abilities to start to work in this field.
-### Here you can find my projects from the Boolean's bootcamp practical exercises and i hope ASAP my own projects
+Welcome on my GitHub,
+i'm Francesco, an Italian jr web-dev, i've always been interested in techs, sciences and web
+actually i've ignored my inclinations for quite a bit (7 years) and recently some things aligned
+and this gave me the possibility to start an online Master Bootcamp with Boolean and this taught me the necessary abilities to start to work in this field.
+Here you can find my projects from the Boolean's bootcamp practical exercises and i hope ASAP my own projects
 
 <!--
 **FrancescoBonandin/FrancescoBonandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
